@@ -9,13 +9,42 @@ I wanted to create a program that allows people to play the popular childhood ga
 - Clear instructions
 - Compiles with gcc
 
-## Usage Example 
-Are you ready to play?(Y/N): Y
-Great! Now give me the first number to start with: 1
-Awesome! Now give me the second number (make sure it is larger than the first number!): 100
-Chances left: 5
-Now...I am thinking of a number between 1 and 100.
-Put your guess here... and make sure it's a good one!!: 50
-You guessed way too high! Try again but do better next time!!
-Chances Left: 4
-...
+## Winning Example
+Are you ready to play?(Y/N): Y<br>
+Great! Now give me the first number to start with: 1<br>
+Awesome! Now give me the second number (make sure it is larger than the first number!): 20<br>
+Chances left: 5<br>
+Now...I am thinking of a number between 1 and 20.<br>
+Put your guess here... and make sure it's a good one!!: 10<br>
+You guessed way too low! Try again but do better next time!!<br>
+Chances Left: 4<br>
+Put your guess here... and make sure it's a good one!!: 15<br>
+You guessed way too high! Try again but do better next time!!<br>
+Chances Left: 3<br>
+Put your guess here... and make sure it's a good one!!: 13<br>
+You guessed way too high! Try again but do better next time!!<br>
+Chances Left: 2<br>
+Put your guess here... and make sure it's a good one!!: 12<br>
+Wow! You actually guessed correctly! Congrats I guess...<br>
+
+## Losing Example
+Are you ready to play?(Y/N): Y<br>
+Great! Now give me the first number to start with: 1<br>
+Awesome! Now give me the second number (make sure it is larger than the first number!): 50<br>
+Chances left: 5<br>
+Now...I am thinking of a number between 1 and 50.<br>
+Put your guess here... and make sure it's a good one!!: 25<br>
+You guessed way too high! Try again but do better next time!!<br>
+Chances Left: 4<br>
+Put your guess here... and make sure it's a good one!!: 12<br>
+You guessed way too low! Try again but do better next time!!<br>
+Chances Left: 3<br>
+Put your guess here... and make sure it's a good one!!: 18<br>
+You guessed way too low! Try again but do better next time!!<br>
+Chances Left: 2<br>
+Put your guess here... and make sure it's a good one!!: 22<br>
+You guessed way too high! Try again but do better next time!!<br>
+Chances Left: 1<br>
+Put your guess here... and make sure it's a good one!!: 20<br>
+You lost!! Try better next time... or just give up<br>
+Correct Number: 19<br>
