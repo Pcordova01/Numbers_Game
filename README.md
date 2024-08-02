@@ -48,3 +48,6 @@ Chances Left: 1<br>
 Put your guess here... and make sure it's a good one!!: 20<br>
 You lost!! Try better next time... or just give up<br>
 Correct Number: 19<br>
+
+## What I learned 
+Before this project was a little bit rough with using random numbers in c.
