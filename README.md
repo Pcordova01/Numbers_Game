@@ -1,5 +1,5 @@
 # Numbers_Game
-I wanted to create a program that allows people to play the popular childhood game- "guess what numner I'm thinking off"- with a computer. In this simple command-line number guessing game, the user is prompted to choose two numbers, then the user tries to guess a randomly generated number within the range of the two numbers. They have 5 chances to do so, if they run out of chances they lose. 
+I wanted to create a program that allows people to play the popular childhood game- "guess what number I'm thinking off"- with a computer. In this simple command-line number guessing game, the user is prompted to choose two numbers, then the user tries to guess a randomly generated number within the range of the two numbers. They have 5 chances to do so, if they run out of chances they lose. 
 
 ## What I learned 
 Building this program helped me build my skills in implementing game logic, handling user input, managing game state, and using random numbers in C. 'srand()' is used to initialize the random number generator; seeding this function ensures there to be a different sequence of random numbers each time the program is run. 'rand()' is used to generate the random numbers, the format for this is: rand() % (max - min + 1) + min.
